@@ -51,7 +51,7 @@
   * The Modules and Packages tutorial provides an example or urlopen() which is from Python 2. How would that function be called in Python 3?
   (urllib.request.urlopen()/(urllib.urlencode())
   * In the Moduls and Packages tutorial, how should the example help(urllib.urlopen) be written?
-  (Couldn't find answer/Ask question)
+  (Couldn't find answer/Ask questions)
   * The Writing Packages section of the Modules and Packages tutorial may be a bit out of date. What has changed?
   (Couldn't find answer/Ask question)
   * When you're done make sure you save your file.
